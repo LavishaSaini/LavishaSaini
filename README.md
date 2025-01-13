@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@lavisha2367367/30-nites-of-code)  
   ![@lavisha2367367 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lavisha2367367)
-## #30NitesOfCode: 
-  ![@lavisha2367367 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lavisha2367367)
+second pet
+https://www.codedex.io/@lavisha2367367/30-nites-of-code?pet=pidhdpfT9949ZcFFlu5U
 
  
 
