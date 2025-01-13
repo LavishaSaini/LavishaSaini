@@ -3,6 +3,23 @@ An enthusiast coding to make the world better
 
 
 Here are some ideas to get you started:
+# 💻 Lavisha Saini
+🌟 Computer Science Engineering Student | 🚀  Web Developer
+
+🎯 Passionate about building innovative solutions for real-world problems.  
+📚 Learning Cloud Technologies | 🌐 Enhancing web applications' scalability.
+
+
+
+### 🛠️ **Tech Stack**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### 📈 **Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavishaSaini&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavishaSaini&layout=compact&theme=radical)
+
 
 - 🔭 I’m currently working on C++,Python
 - 🌱 I’m currently learning C++
