@@ -2,7 +2,7 @@
 🌟 Computer Science Engineering Student | 🚀  Web Developer
 
 🎯 Passionate about building innovative solutions for real-world problems.  
-📚 Learning Cloud Technologies | 🌐 Enhancing web applications' scalability.
+🌐 Enhancing web applications' scalability.
 
 ---
 ## 🛠️ Tools and Technologies
@@ -30,9 +30,6 @@
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Cloud:
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ### Tools:
