@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love learning.
   
 ## #30NitesOfCode:
+![image](https://github.com/user-attachments/assets/8c29dd7e-7a3f-4ba7-a40f-e20ae1b0aa84)
+
   [Check out my progress!](https://www.codedex.io/@lavisha2367367/30-nites-of-code)  
   ![@lavisha2367367 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lavisha2367367)
   second pet
