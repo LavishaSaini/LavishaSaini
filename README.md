@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi 👋, I'm lavisha
+An enthusiast coding to make the world better
 
 
 Here are some ideas to get you started:
