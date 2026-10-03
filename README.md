@@ -51,6 +51,21 @@ I enjoy turning data into meaningful insights and creating responsive, user-frie
 
 ## 📌 Featured Projects
 
+### 📊 Company Insights 360
+
+A business analytics and data visualization project focused on transforming company data into meaningful business insights.
+
+**Focus:** Data Analytics • Business Intelligence • Dashboarding
+
+* Analyzed company data to identify meaningful business insights
+* Worked with data analysis and visualization
+* Focused on presenting information in an easy-to-understand format
+* Created a project demonstrating practical analytics and business intelligence skills
+
+🔗 [**View Project →**](https://github.com/LavishaSaini/company-insights-360)
+
+---
+
 ### 📊 NYC 311 Daily Operations & SLA Breach Intelligence
 
 A data analytics project focused on analyzing NYC 311 service requests and identifying operational patterns, SLA issues and high-risk requests.
@@ -62,7 +77,7 @@ A data analytics project focused on analyzing NYC 311 service requests and ident
 * Used Excel, Power Query and PivotTables for data preparation
 * Built a Power BI dashboard for KPI, SLA and risk analysis
 
-🔗 **[View Project](#)**
+🔗 [**View Project →**](https://github.com/LavishaSaini/NYC311_Analytics)
 
 ---
 
@@ -76,21 +91,23 @@ A responsive Amazon-inspired e-commerce website created using frontend technolog
 * Designed an e-commerce-style user interface
 * Focused on responsive layouts and user-friendly navigation
 
-🔗 **[View Project](#)**
+🔗 [**View Project →**](https://github.com/LavishaSaini)
+
 
 ---
 
-### 🚪 Secret Door Portfolio
+## 🏅 Challenges & Achievements
 
-An interactive portfolio concept featuring a hidden interaction that reveals a surprise page/modal.
+### 🌙 #30NitesOfCode
 
-**Tech:** HTML • CSS • JavaScript
+Participated in the **#30NitesOfCode** coding challenge, maintaining consistency through daily coding practice and learning.
 
-* Designed an interactive portfolio experience
-* Added creative interactions beyond a traditional portfolio
-* Focused on personality, engagement and user experience
+* 💻 Practiced programming and problem-solving
+* 🔥 Built consistency through daily coding sessions
+* 🧠 Strengthened coding fundamentals
+* 🚀 Learned by building and experimenting with code
 
-🔗 **[View Project](#)**
+**#30NitesOfCode #CodingChallenge #LearningInPublic**
 
 ---
 
@@ -160,7 +177,7 @@ Alongside analytics, I'm continuing to improve my **Frontend Development, JavaSc
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavishaSaini\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Lavisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LavishaSaini\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LavishaSaini\&layout=compact\&theme=tokyonight\&hide_border=true)
 
@@ -179,4 +196,5 @@ Alongside analytics, I'm continuing to improve my **Frontend Development, JavaSc
 ### ⭐ Thanks for visiting my profile!
 
 I'm always learning, building and looking for opportunities to grow.
+
 **Let's connect and build something meaningful! 🚀**
