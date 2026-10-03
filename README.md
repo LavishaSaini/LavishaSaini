@@ -35,7 +35,6 @@ I enjoy turning data into meaningful insights and creating responsive, user-frie
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 ### 💻 Programming
 
@@ -96,20 +95,6 @@ A responsive Amazon-inspired e-commerce website created using frontend technolog
 
 ---
 
-## 🏅 Challenges & Achievements
-
-### 🌙 #30NitesOfCode
-
-Participated in the **#30NitesOfCode** coding challenge, maintaining consistency through daily coding practice and learning.
-
-* 💻 Practiced programming and problem-solving
-* 🔥 Built consistency through daily coding sessions
-* 🧠 Strengthened coding fundamentals
-* 🚀 Learned by building and experimenting with code
-
-**#30NitesOfCode #CodingChallenge #LearningInPublic**
-
----
 
 ## 💼 Experience
 
